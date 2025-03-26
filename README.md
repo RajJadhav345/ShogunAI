@@ -7,7 +7,6 @@
 2. **DataEmbedding.py**: Code to convert PDF files into AI-readable format.
 
 `FOLDERS`
-3. **Main Data**: Containes all source materials (PDF files).
 4. **Clean Data**: Manually cleaned PDFs that are ready for processing by `DataEmbedding.py`.
 5. **Data**: Folder containing embedded data fed into the ShogunAI model.
 
